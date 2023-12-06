@@ -21,6 +21,7 @@ Contato 📫
 - Estou sempre aberto a novas conexões e colaborações. Fique à vontade para entrar em contato comigo!
 
 LinkedIn: https://www.linkedin.com/in/fabiano-santos-a81a92231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 Email: fabianoeurospace@gmail.com
 
 Vamos construir algo incrível juntos! 🚀
