@@ -1,5 +1,5 @@
 Sobre Mim 👋
-- Olá! Eu sou Fabiano Santos, um entusiasta da programação atualmente embarcando no emocionante mundo da Engenharia de Software. Com 28 anos de idade, estou dedicado ao meu primeiro ano na faculdade, buscando consolidar meu conhecimento e trilhar uma carreira na área de desenvolvimento de software.
+- Olá! Eu sou Fabiano Santos, um entusiasta da programação atualmente embarcando no emocionante mundo da Engenharia de Software. Com 28 anos de idade, estou dedicado ao meu terceiro semestre na faculdade, buscando consolidar meu conhecimento e trilhar uma carreira na área de desenvolvimento de software.
 
 Conhecimentos Técnicos 🚀
 - Ao longo da minha jornada, adquiri experiência em diversas linguagens, incluindo:
